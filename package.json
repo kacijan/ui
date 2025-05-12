@@ -149,7 +149,7 @@
     "tailwind-variants": "^1.0.0",
     "tailwindcss": "^4.1.6",
     "tinyglobby": "^0.2.13",
-    "unplugin": "^2.3.2",
+    "unplugin": "^2.3.3",
     "unplugin-auto-import": "^19.2.0",
     "unplugin-vue-components": "^28.5.0",
     "vaul-vue": "^0.4.1",
@@ -209,7 +209,7 @@
     "debug": "4.3.7",
     "rollup": "4.34.9",
     "unimport": "4.1.1",
-    "unplugin": "^2.3.2"
+    "unplugin": "^2.3.3"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
